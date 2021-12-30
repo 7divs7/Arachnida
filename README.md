@@ -15,7 +15,6 @@ Install the game and Play!
 
 ## Output
 ![Alt Text](https://github.com/7divs7/Arachnida/blob/master/arachnida.gif)
-Forgive me for the quality of the gif  ¯\_(ツ)_/¯
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
